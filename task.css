@@ -1,0 +1,43 @@
+
+.Principal{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSvkXTYKPIysEOWc5LLujydifKsiGDjJArUkESHSHwqG9easyc)!important;
+    background-size: cover;
+    height: 600px;
+   padding: 30px;
+}
+.tarea{
+    height: auto;
+    /* margin: 20px; */
+    /* background-color: royalblue; */
+    background-color:  rgb(1, 1, 20); opacity: 0.8;
+    color: seashell;
+    border-radius: 20px;
+}
+.row{
+    margin: auto;
+    width: auto;
+    padding: 3%;
+}
+.li {
+    background-color: orangered; 
+}
+
+.modal-header{
+    height:50px;
+    background-color: royalblue;
+    color: seashell;
+   
+}
+.modal-body{
+    background-color: black;
+    
+}
+.lista-modal{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvkLpEUHU0l6m5cDvr4Ko5MkB5qHpXSr_oWkoWSML3B7NhVemV)!important;
+    background-color: rgb(113, 171, 226);
+    background-size: cover;
+    color: seashell;
+    height: auto;
+    padding: 50px;
+}
